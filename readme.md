@@ -5,6 +5,11 @@ I am a passionate software developer with expertise in Java, Spring Boot, and RE
 
 ---
 
+## 📈 GitHub Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeet-singhh&theme=radical)
+
+
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages:
