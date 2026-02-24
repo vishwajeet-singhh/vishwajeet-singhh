@@ -1,9 +1,12 @@
-name: Daily README commits
+name: README auto commit
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes
+    - cron: "*/5 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   commit:
@@ -11,20 +14,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Configure git
         run: |
-          git config user.name "auto-bot"
-          git config user.email "YOUR_GITHUB_EMAIL"
+          git config user.name "vishwajeet-singhh"
+          git config user.email "vishwajeet.singh@mayadataprivacy.eu"
 
-      - name: Make commits
+      - name: Update README
         run: |
-          for i in 1 2 3
-          do
-            echo "update $(date) $RANDOM" >> README.md
-            git add README.md
-            git commit -m "auto: update $i" || echo "no change"
-          done
+          echo "update $(date) $RANDOM" >> README.md
+          git add README.md
+          git commit -m "auto update" || echo "no change"
 
       - name: Push
-        run: git push
+        run: |
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
