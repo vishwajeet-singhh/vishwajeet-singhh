@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Currently working on Java, Spring Boot, Python (Flask), Microservices, REST APIs, Kafka, PostgreSQL, Oracle, and SAP HANA, while also taking on Scrum Master responsibilities.
+Currently working on Java, Spring Boot, Python, Flask, Microservices, REST APIs, Kafka, PostgreSQL, Oracle, and SAP HANA, while also taking on Scrum Master responsibilities.
 
 ## 🌐 Socials
 
