@@ -31,13 +31,11 @@ Currently working on Java, Spring Boot, Python (Flask), Microservices, REST APIs
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vishwajeet-singhh&theme=default&hide_border=false&layout=compact" height="180"/>
 </p>
 
+
 ## 📈 GitHub Activity
 
 [![Vishwajeet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeet-singhh&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vishwajeet-singhh&theme=flat&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
