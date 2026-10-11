@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="486" viewBox="0 0 900 486" role="img" aria-labelledby="conn-title conn-desc">
+<title id="conn-title">Connect with Vishwajeet</title>
+<desc id="conn-desc">A terminal running connect.sh beside four social cards: LinkedIn (/in/vishwajeetsage), website (vishwajeet.me), LeetCode (recusant_byte) and Codeforces (vishy_singh). Clickable links are below the image.</desc>
+<!-- Fonts: Anton, Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git); JetBrains Mono, Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono). Both subset and embedded under the SIL Open Font License 1.1, see licenses/ next to this file. -->
+<style>@font-face{font-family:'connDisplay';src:url(data:font/woff2;base64,d09GMgABAAAAAAWgAA4AAAAACvAAAAVPAAIdsgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbehwqBmAAZBEICodEhXIBNgIkA0ALIgAEIAWHNAcgGwUJKB6FcZvzoFL5TqUt3GQ+PJ7+n5ukCoonZlIHoZ3bTkznrlDWDwBPAg/5t3ddtX2BhNIw0qgEAimgBBPN2pIgsvofQLfx/7/fzBc8/gbRvlRC45CohEwpE7vcmb1358ksqYe4Er0iaSLexUJbWmhb2ms0P3NYgB5jlc8CAuABAEAhCAFBAKxIaaixymyBdhnwOqDFAPDXGDJLbgfUsLoxKA+FFU58gkLMkoTKv/3/TRQ9AJhnEUIVecuMIqIfGS3WvmDMtj2Tr5F7oABFz/wJ4DFrKdQFe96APJw4mWMKePENRNYydrEX4AbqOTC3VLzKLQBENIACyzcHjSiMJtbTo3uJYpSpVKuR9ec3Vqhm1vqzlw/b7Wtf+dLnPonYBEGSWQfShOa3gPlAWoBsAACAAQAKNArZx3oFmNzuwaBhWQ0fxjNKgdVyieo5DBcyyDN9fLCvVw51W7qFPIFw+0rgmhWWlSth4hXsDHf7akKuZVn59jpvVV1OvchsVq5r2E6Ki6iu/S4t0KajeEoALQN3KBTX8+Ra8HElt62IoJVS3VlaULO2FXMCgeEUgsyrWKUnJoNigWpLdHLXi9cE+Rl1AFW8FDPKgdtWEdW1qznd0hWdTSl7m2x6uIkmAo7Q/Xty7apVNhs9o6peS/FW3ldMxxeQzdZ/L6b/Gi7E0gaKlRNdJCSo8dt6w9VEI8jXrAj1Ct0NUH6DIN7iOeWvLrKoPvxi259NgsgXn4Di2Ppn2X9IDMSn3vjNW5+trr+i/dHO+f6lTRuefr348st7XG2prUldbMp812qqozIeu/W6DaZEW1HppebEI+346uv/fs8595ZuvS+rcKD3jvZtNTHhe/vG0tlmNpnvd7XhE5285PTBd9778q5qw4/tT+QuM6cWRjenWqsj27NyQKra870pb5E78+/vej69tdf3kq/Xaln20jIU1WgBmXiffijO8URHwAJNRaomI3VpirIT/AsnCoThEyfy1nE2wmSK3Ec7RzudOKr7f9Olo+O2DXtXrgTV2yqO+t7i3+VNj3dd19B+Y2dLTBUO646uOKx8o3tDYWSFMaW6pHn5ZMNgZemTD77z0uqt/+z/6dhvRGWXI2+OiHdERcVYX/7tu1+lawpfC535aAF2QrH/20K1/GudCzt0G/4+dYSi2M4naprSY+PS1M2J521QlCPol4H6Hh4K9ZtCAAAQANW9F7//+6/6dAUn1To1AGD95f8OABtUb7xx8cGLEvcmlwdAiQIABL7cvIfjuOBeBMTWU5+X0JArABwDk9yKEsQQ/6Aojc7mDF7IcQf6995FfMZjTv6G3PgIcbEFAAHotVPpp1A5GYMABM+BRmoNgLcAj0qw3lIpWp+otBQ/qYxFTqkKVaFXlRaFTVVbEM5gjcpJi1uCeVWIcPLZ1bSyqg0oN81J5jZmxCgvUZoUIEQWP0hHL+XgNc1B1MRt2jjJEC8DfDja9nXzEMVK9fdy8siTvPOIMV4qn0FGQ6ZNYWkWTjdtkyR2BeHlQccoFlRhBUaZuXGM/9hCMsJn0gC3NEapUmXJ5yAJ8MpPWSCpHYuHEtlGupqCMc44eRKvrs1ugG/C0ZwdvFf+ff1SGeUwShenn6VS4GhEqWGsfornzmU1FNiFkYcDjrRCCZLrJY77SJazqPcQ71aaDa1gp4BirUTk4aRFQxL9PSTDRD4PDIO7zWuUlItaZks2ciaMl59vloHECe+XObXA+O5Mql4gYmKAH9DYfeFBk3hB4E1h0YA6l2r2pCGQN+F7xR5D7y053xw28kiisQT3+kjWqIo5tYy2Rbv0J+wA) format('woff2');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'connMono';src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'connMono';src:url(data:font/woff2;base64,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) format('woff2');font-weight:700;font-style:normal;font-display:block}
+.conn-d{font-family:'connDisplay',Impact,'Haettenschweiler','Arial Narrow Bold',sans-serif;font-weight:400}
+.conn-m{font-family:'connMono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:400}
+.conn-b{font-weight:700}
+.conn-a{animation-duration:.8s;animation-timing-function:cubic-bezier(.2,.75,.2,1);animation-fill-mode:both;transform-box:fill-box;transform-origin:50% 50%}
+.conn-still{display:none}
+@keyframes conn-fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes conn-fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes conn-slideR{from{opacity:0;transform:translateX(-22px)}to{opacity:1;transform:none}}
+@keyframes conn-slideL{from{opacity:0;transform:translateX(22px)}to{opacity:1;transform:none}}
+@keyframes conn-pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}
+@keyframes conn-blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+
+.conn-caret{animation:conn-blink 1.05s linear infinite}
+.conn-nudge{animation:conn-nudge 1.7s ease-in-out infinite both}
+@keyframes conn-nudge{0%,100%{transform:translateX(0);opacity:.55}50%{transform:translateX(6px);opacity:1}}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important}
+  .conn-smil{display:none}
+  .conn-still{display:inline}
+}</style>
+<defs>
+<linearGradient id="conn-hair" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#247bff" stop-opacity=".95"/>
+  <stop offset=".38" stop-color="#247bff" stop-opacity=".18"/>
+  <stop offset=".62" stop-color="#ff354f" stop-opacity=".18"/>
+  <stop offset="1" stop-color="#ff354f" stop-opacity=".9"/>
+</linearGradient>
+<linearGradient id="conn-cardhair" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#ffffff" stop-opacity=".22"/>
+  <stop offset=".45" stop-color="#247bff" stop-opacity=".35"/>
+  <stop offset="1" stop-color="#ff354f" stop-opacity=".45"/>
+</linearGradient>
+<pattern id="conn-dots" width="18" height="18" patternUnits="userSpaceOnUse">
+  <circle cx="2" cy="2" r="1.05" fill="#ffffff" fill-opacity=".07"/>
+</pattern>
+<radialGradient id="conn-glowB"><stop offset="0" stop-color="#247bff" stop-opacity=".30"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+<radialGradient id="conn-glowR"><stop offset="0" stop-color="#ff354f" stop-opacity=".22"/><stop offset="1" stop-color="#ff354f" stop-opacity="0"/></radialGradient>
+<clipPath id="conn-frame"><rect x="1" y="1" width="898" height="484" rx="28"/></clipPath></defs>
+<rect x="1" y="1" width="898" height="484" rx="28" fill="#070b16"/>
+<g clip-path="url(#conn-frame)">
+  <circle cx="150" cy="380" r="300" fill="url(#conn-glowB)"/><circle cx="760" cy="120" r="300" fill="url(#conn-glowR)"/>
+  <rect width="900" height="486" fill="url(#conn-dots)"/>
+</g>
+<rect x=".75" y=".75" width="898.5" height="484.5" rx="28" fill="none" stroke="url(#conn-hair)" stroke-width="1.5"/>
+<g class="conn-a" style="animation-name:conn-fadeUp;animation-delay:.05s">
+<rect x="52" y="49" width="22" height="3" rx="1.5" fill="#ff354f"/>
+<text x="84" y="56" class="conn-m conn-b" font-size="13" letter-spacing="2.2" fill="#6ea8ff" >04 / CONNECT</text>
+</g>
+<g class="conn-a" style="animation-name:conn-fadeUp;animation-delay:.15s">
+<text x="50" y="122" class="conn-d" font-size="54" letter-spacing="0.5" fill="#eef1f7" >LET&#x27;S BUILD SOMETHING</text>
+</g>
+<g class="conn-a" style="animation-name:conn-fadeUp;animation-delay:.28s">
+<text x="52" y="154" class="conn-m" font-size="15" fill="#9aa4ba" >Clickable links are right below this card ↓</text>
+</g>
+<g class="conn-a" style="animation-name:conn-slideR;animation-delay:0.35s;animation-duration:0.9s">
+<rect x="52" y="196" width="372" height="258" rx="16" fill="#0a1122" stroke="url(#conn-cardhair)" stroke-width="1.2" />
+<rect x="53" y="232" width="370" height="1" fill="#1d2945"/>
+<circle cx="72" cy="214" r="5" fill="#ff354f" fill-opacity=".9"/>
+<circle cx="88" cy="214" r="5" fill="#ffb547" fill-opacity=".9"/>
+<circle cx="104" cy="214" r="5" fill="#247bff" fill-opacity=".9"/>
+<text x="262" y="219" class="conn-m" font-size="12" fill="#64708c" text-anchor="middle" >connect.sh</text>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:0.90s;animation-duration:0.4s"><text x="72" y="262" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#ff354f" class="conn-b">$ </tspan><tspan fill="#eef1f7" class="conn-b">./connect.sh --with vishwajeet</tspan></text></g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.12s;animation-duration:0.4s"><text x="72" y="287" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#64708c">› </tspan><tspan fill="#9aa4ba">resolving channels…</tspan></text></g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.34s;animation-duration:0.4s"><text x="72" y="312" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#247bff" class="conn-b">● </tspan><tspan fill="#6ea8ff">linkedin    </tspan><tspan fill="#eef1f7">/in/vishwajeetsage</tspan></text></g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.56s;animation-duration:0.4s"><text x="72" y="337" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#247bff" class="conn-b">● </tspan><tspan fill="#6ea8ff">web         </tspan><tspan fill="#eef1f7">vishwajeet.me</tspan></text></g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.78s;animation-duration:0.4s"><text x="72" y="362" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#247bff" class="conn-b">● </tspan><tspan fill="#6ea8ff">leetcode    </tspan><tspan fill="#eef1f7">recusant_byte</tspan></text></g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:2.00s;animation-duration:0.4s"><text x="72" y="387" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#247bff" class="conn-b">● </tspan><tspan fill="#6ea8ff">codeforces  </tspan><tspan fill="#eef1f7">vishy_singh</tspan></text></g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:2.22s;animation-duration:0.4s"><text x="72" y="412" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#64708c">› </tspan><tspan fill="#9aa4ba">4 channels open. links below ↓</tspan></text></g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:2.44s;animation-duration:0.4s"><text x="72" y="437" class="conn-m" font-size="13" xml:space="preserve" ><tspan fill="#ff354f" class="conn-b">$ </tspan></text><rect x="89.6" y="425" width="8" height="15" fill="#eef1f7" class="conn-caret"/></g>
+</g>
+<g class="conn-a" style="animation-name:conn-slideL;animation-delay:0.60s">
+<rect x="482" y="196" width="366" height="54" rx="16" fill="#0c1427" stroke="url(#conn-cardhair)" stroke-width="1.2" />
+<g transform="translate(495.35 205.35) scale(0.88)"><path fill="#0A66C2" d="M34.5,3H5.6C4.2,3,3,4.1,3,5.4v29.1C3,35.9,4.2,37,5.6,37h29C35.9,37,37,35.9,37,34.6V5.4C37,4.1,35.9,3,34.5,3z"/><path fill="#FFFFFF" d="M8,16h5v16H8V16z"/><path fill="#FFFFFF" d="M16,16h4.8v2.4c0.6-1.3,2.5-2.6,4.9-2.6c4.7,0,6.3,2.1,6.3,7.2V32h-5v-8c0-2.7-0.5-4.1-2.5-4.1c-2.6,0-3.5,2-3.5,4.1V32h-5V16z"/><circle fill="#FFFFFF" cx="10.5" cy="10.5" r="3.05"/></g>
+<text x="544" y="220" class="conn-m conn-b" font-size="15" fill="#eef1f7" >LinkedIn</text>
+<text x="544" y="238" class="conn-m" font-size="12.5" fill="#9aa4ba" >/in/vishwajeetsage</text>
+<g class="conn-nudge" style="animation-delay:1.60s"><path d="M814 223h14m-5-5 5 5-5 5" fill="none" stroke="#ff354f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.30s"><g class="conn-nudge" style="animation-delay:1.30s"><path d="M444 217l6 6-6 6M454 217l6 6-6 6" fill="none" stroke="#6ea8ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<g class="conn-a" style="animation-name:conn-slideL;animation-delay:0.74s">
+<rect x="482" y="264" width="366" height="54" rx="16" fill="#0c1427" stroke="url(#conn-cardhair)" stroke-width="1.2" />
+<rect x="496" y="274" width="34" height="34" rx="10" fill="#247bff"/><circle fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" cx="513" cy="291" r="7"/><ellipse fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" cx="513" cy="291" rx="3" ry="7"/><path fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" d="M506 291h14"/>
+<text x="544" y="288" class="conn-m conn-b" font-size="15" fill="#eef1f7" >Website</text>
+<text x="544" y="306" class="conn-m" font-size="12.5" fill="#9aa4ba" >vishwajeet.me</text>
+<g class="conn-nudge" style="animation-delay:1.78s"><path d="M814 291h14m-5-5 5 5-5 5" fill="none" stroke="#ff354f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.44s"><g class="conn-nudge" style="animation-delay:1.48s"><path d="M444 285l6 6-6 6M454 285l6 6-6 6" fill="none" stroke="#6ea8ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<g class="conn-a" style="animation-name:conn-slideL;animation-delay:0.88s">
+<rect x="482" y="332" width="366" height="54" rx="16" fill="#0c1427" stroke="url(#conn-cardhair)" stroke-width="1.2" />
+<rect x="496" y="342" width="34" height="34" rx="10" fill="#111b35" stroke="url(#conn-cardhair)"/><g transform="translate(503.5 349.5) scale(0.79)"><path fill="#FFA116" d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104 5.35 5.35 0 0 0-.125.513 5.527 5.527 0 0 0 .062 2.362 5.83 5.83 0 0 0 .349 1.017 5.938 5.938 0 0 0 1.271 1.818l4.277 4.193.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-.8-.647-1.766-1.045-2.774-1.202l2.015-2.158A1.384 1.384 0 0 0 13.483 0zm-2.866 12.815a1.38 1.38 0 0 0-1.38 1.382 1.38 1.38 0 0 0 1.38 1.382H20.79a1.38 1.38 0 0 0 1.38-1.382 1.38 1.38 0 0 0-1.38-1.382z"/></g>
+<text x="544" y="356" class="conn-m conn-b" font-size="15" fill="#eef1f7" >LeetCode</text>
+<text x="544" y="374" class="conn-m" font-size="12.5" fill="#9aa4ba" >recusant_byte</text>
+<g class="conn-nudge" style="animation-delay:1.96s"><path d="M814 359h14m-5-5 5 5-5 5" fill="none" stroke="#ff354f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.58s"><g class="conn-nudge" style="animation-delay:1.66s"><path d="M444 353l6 6-6 6M454 353l6 6-6 6" fill="none" stroke="#6ea8ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<g class="conn-a" style="animation-name:conn-slideL;animation-delay:1.02s">
+<rect x="482" y="400" width="366" height="54" rx="16" fill="#0c1427" stroke="url(#conn-cardhair)" stroke-width="1.2" />
+<rect x="496" y="410" width="34" height="34" rx="10" fill="#111b35" stroke="url(#conn-cardhair)"/><g transform="translate(503.5 417.5) scale(0.79)"><path fill="#1F8ACB" d="M4.5 7.5C5.328 7.5 6 8.172 6 9v10.5c0 .828-.672 1.5-1.5 1.5h-3C.673 21 0 20.328 0 19.5V9c0-.828.673-1.5 1.5-1.5h3zm9-4.5c.828 0 1.5.672 1.5 1.5v15c0 .828-.672 1.5-1.5 1.5h-3c-.827 0-1.5-.672-1.5-1.5v-15c0-.828.673-1.5 1.5-1.5h3zm9 7.5c.828 0 1.5.672 1.5 1.5v7.5c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5V12c0-.828.672-1.5 1.5-1.5h3z"/></g>
+<text x="544" y="424" class="conn-m conn-b" font-size="15" fill="#eef1f7" >Codeforces</text>
+<text x="544" y="442" class="conn-m" font-size="12.5" fill="#9aa4ba" >vishy_singh</text>
+<g class="conn-nudge" style="animation-delay:2.14s"><path d="M814 427h14m-5-5 5 5-5 5" fill="none" stroke="#ff354f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g class="conn-a" style="animation-name:conn-fadeIn;animation-delay:1.72s"><g class="conn-nudge" style="animation-delay:1.84s"><path d="M444 421l6 6-6 6M454 421l6 6-6 6" fill="none" stroke="#6ea8ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+</svg>

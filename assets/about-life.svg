@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="566" viewBox="0 0 900 566" role="img" aria-labelledby="about-title about-desc">
+<title id="about-title">What I do</title>
+<desc id="about-desc">Four capabilities (backend APIs, performance, security and licensing, developer tooling) beside a three-slide impact carousel that changes every 4 seconds: 25+ production REST APIs, ~95% shorter pipeline runtime, ~50% faster review turnaround.</desc>
+<!-- Fonts: Anton, Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git); JetBrains Mono, Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono). Both subset and embedded under the SIL Open Font License 1.1, see licenses/ next to this file. -->
+<style>@font-face{font-family:'aboutDisplay';src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'aboutMono';src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'aboutMono';src:url(data:font/woff2;base64,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) format('woff2');font-weight:700;font-style:normal;font-display:block}
+.about-d{font-family:'aboutDisplay',Impact,'Haettenschweiler','Arial Narrow Bold',sans-serif;font-weight:400}
+.about-m{font-family:'aboutMono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:400}
+.about-b{font-weight:700}
+.about-a{animation-duration:.8s;animation-timing-function:cubic-bezier(.2,.75,.2,1);animation-fill-mode:both;transform-box:fill-box;transform-origin:50% 50%}
+.about-still{display:none}
+@keyframes about-fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes about-fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes about-slideR{from{opacity:0;transform:translateX(-22px)}to{opacity:1;transform:none}}
+@keyframes about-slideL{from{opacity:0;transform:translateX(22px)}to{opacity:1;transform:none}}
+@keyframes about-pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:none}}
+@keyframes about-blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+
+.about-hide{opacity:0}
+.about-slide{animation:about-cyc 12s cubic-bezier(.2,.75,.2,1) infinite both;transform-box:fill-box}
+@keyframes about-cyc{0%{opacity:0;transform:translateX(26px)}4%{opacity:1;transform:none}30%{opacity:1;transform:none}
+33.333%{opacity:0;transform:translateX(-26px)}100%{opacity:0;transform:translateX(-26px)}}
+.about-seg{transform-box:fill-box;transform-origin:0 50%;animation:12s linear .6s infinite both}
+.about-seg0{animation-name:about-s0}
+.about-seg1{animation-name:about-s1;transform:scaleX(0)}
+.about-seg2{animation-name:about-s2;transform:scaleX(0)}
+@keyframes about-s0{0%{transform:scaleX(0)}33.333%,100%{transform:scaleX(1)}}
+@keyframes about-s1{0%,33.333%{transform:scaleX(0)}66.666%,100%{transform:scaleX(1)}}
+@keyframes about-s2{0%,66.666%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important}
+  .about-smil{display:none}
+  .about-still{display:inline}
+}</style>
+<defs>
+<linearGradient id="about-hair" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#247bff" stop-opacity=".95"/>
+  <stop offset=".38" stop-color="#247bff" stop-opacity=".18"/>
+  <stop offset=".62" stop-color="#ff354f" stop-opacity=".18"/>
+  <stop offset="1" stop-color="#ff354f" stop-opacity=".9"/>
+</linearGradient>
+<linearGradient id="about-cardhair" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#ffffff" stop-opacity=".22"/>
+  <stop offset=".45" stop-color="#247bff" stop-opacity=".35"/>
+  <stop offset="1" stop-color="#ff354f" stop-opacity=".45"/>
+</linearGradient>
+<pattern id="about-dots" width="18" height="18" patternUnits="userSpaceOnUse">
+  <circle cx="2" cy="2" r="1.05" fill="#ffffff" fill-opacity=".07"/>
+</pattern>
+<radialGradient id="about-glowB"><stop offset="0" stop-color="#247bff" stop-opacity=".30"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+<radialGradient id="about-glowR"><stop offset="0" stop-color="#ff354f" stop-opacity=".22"/><stop offset="1" stop-color="#ff354f" stop-opacity="0"/></radialGradient>
+<clipPath id="about-frame"><rect x="1" y="1" width="898" height="564" rx="28"/></clipPath>
+<linearGradient id="about-tile" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#247bff" stop-opacity=".38"/><stop offset="1" stop-color="#ff354f" stop-opacity=".26"/></linearGradient>
+<linearGradient id="about-num" gradientUnits="userSpaceOnUse" x1="508" y1="0" x2="800" y2="0">
+  <stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="564" rx="28" fill="#070b16"/>
+<g clip-path="url(#about-frame)">
+  <circle cx="120" cy="80" r="300" fill="url(#about-glowB)"/><circle cx="760" cy="470" r="320" fill="url(#about-glowR)"/>
+  <rect width="900" height="566" fill="url(#about-dots)"/>
+</g>
+<rect x=".75" y=".75" width="898.5" height="564.5" rx="28" fill="none" stroke="url(#about-hair)" stroke-width="1.5"/>
+<g class="about-a" style="animation-name:about-fadeUp;animation-delay:.05s">
+<rect x="52" y="49" width="22" height="3" rx="1.5" fill="#ff354f"/>
+<text x="84" y="56" class="about-m about-b" font-size="13" letter-spacing="2.2" fill="#6ea8ff" >01 / ABOUT</text>
+</g>
+<g class="about-a" style="animation-name:about-fadeUp;animation-delay:.15s">
+<text x="50" y="126" class="about-d" font-size="58" letter-spacing="0.5" fill="#eef1f7" >WHAT I DO</text>
+</g>
+<g class="about-a" style="animation-name:about-fadeUp;animation-delay:.28s">
+<text x="52" y="158" class="about-m" font-size="15" fill="#9aa4ba" >Backend developer and Scrum Master on a ~20-person product team.</text>
+</g>
+<g class="about-a" style="animation-name:about-slideR;animation-delay:0.35s">
+<rect x="52" y="202" width="44" height="44" rx="12" fill="url(#about-tile)" stroke="url(#about-cardhair)" stroke-width="1"/>
+<text x="74" y="229" class="about-m about-b" font-size="14" fill="#eef1f7" text-anchor="middle" >01</text>
+<text x="114" y="219" class="about-m about-b" font-size="17" fill="#eef1f7" >Backend APIs</text>
+<text x="114" y="243" class="about-m" font-size="13.5" fill="#9aa4ba" >REST APIs in Java and Spring Boot on</text>
+<text x="114" y="262" class="about-m" font-size="13.5" fill="#9aa4ba" >PostgreSQL, Oracle and SAP HANA.</text>
+</g>
+<rect class="about-a" style="animation-name:about-fadeIn;animation-delay:0.60s" x="73.5" y="252" width="1" height="30" fill="#1d2945"/>
+<g class="about-a" style="animation-name:about-slideR;animation-delay:0.47s">
+<rect x="52" y="288" width="44" height="44" rx="12" fill="url(#about-tile)" stroke="url(#about-cardhair)" stroke-width="1"/>
+<text x="74" y="315" class="about-m about-b" font-size="14" fill="#eef1f7" text-anchor="middle" >02</text>
+<text x="114" y="305" class="about-m about-b" font-size="17" fill="#eef1f7" >Performance</text>
+<text x="114" y="329" class="about-m" font-size="13.5" fill="#9aa4ba" >Predicate pushdown, batch-concurrency</text>
+<text x="114" y="348" class="about-m" font-size="13.5" fill="#9aa4ba" >tuning and per-tenant connection pools.</text>
+</g>
+<rect class="about-a" style="animation-name:about-fadeIn;animation-delay:0.72s" x="73.5" y="338" width="1" height="30" fill="#1d2945"/>
+<g class="about-a" style="animation-name:about-slideR;animation-delay:0.59s">
+<rect x="52" y="374" width="44" height="44" rx="12" fill="url(#about-tile)" stroke="url(#about-cardhair)" stroke-width="1"/>
+<text x="74" y="401" class="about-m about-b" font-size="14" fill="#eef1f7" text-anchor="middle" >03</text>
+<text x="114" y="391" class="about-m about-b" font-size="17" fill="#eef1f7" >Security &amp; licensing</text>
+<text x="114" y="415" class="about-m" font-size="13.5" fill="#9aa4ba" >Spring Security IAM with JWT, OAuth2,</text>
+<text x="114" y="434" class="about-m" font-size="13.5" fill="#9aa4ba" >RBAC and MFA; PEM-signed licences.</text>
+</g>
+<rect class="about-a" style="animation-name:about-fadeIn;animation-delay:0.84s" x="73.5" y="424" width="1" height="30" fill="#1d2945"/>
+<g class="about-a" style="animation-name:about-slideR;animation-delay:0.71s">
+<rect x="52" y="460" width="44" height="44" rx="12" fill="url(#about-tile)" stroke="url(#about-cardhair)" stroke-width="1"/>
+<text x="74" y="487" class="about-m about-b" font-size="14" fill="#eef1f7" text-anchor="middle" >04</text>
+<text x="114" y="477" class="about-m about-b" font-size="17" fill="#eef1f7" >Developer tooling</text>
+<text x="114" y="501" class="about-m" font-size="13.5" fill="#9aa4ba" >Helix, my self-hosted AI pull-request</text>
+<text x="114" y="520" class="about-m" font-size="13.5" fill="#9aa4ba" >reviewer, runs across my team&#x27;s org.</text>
+</g>
+<g class="about-a" style="animation-name:about-pop;animation-delay:0.45s;animation-duration:0.9s">
+<rect x="486" y="200" width="362" height="318" rx="22" fill="#0c1427" stroke="url(#about-cardhair)" stroke-width="1.2" />
+<text x="514" y="242" class="about-m about-b" font-size="11.5" letter-spacing="1.8" fill="#6ea8ff" >IMPACT · MAYA DATA PRIVACY</text>
+<rect x="514" y="262" width="96.67" height="4" rx="2" fill="#1d2945"/>
+<rect x="514" y="262" width="96.67" height="4" rx="2" fill="#247bff" class="about-seg about-seg0"/>
+<rect x="618.67" y="262" width="96.67" height="4" rx="2" fill="#1d2945"/>
+<rect x="618.67" y="262" width="96.67" height="4" rx="2" fill="#247bff" class="about-seg about-seg1"/>
+<rect x="723.33" y="262" width="96.67" height="4" rx="2" fill="#1d2945"/>
+<rect x="723.33" y="262" width="96.67" height="4" rx="2" fill="#247bff" class="about-seg about-seg2"/>
+<g class="about-slide" style="animation-delay:0.60s">
+<text x="820" y="242" class="about-m" font-size="11.5" fill="#64708c" text-anchor="end" >01 / 03</text>
+<text x="510" y="382" class="about-d" font-size="108" fill="url(#about-num)" >25+</text>
+<text x="514" y="422" class="about-m about-b" font-size="18" fill="#eef1f7" >production REST APIs</text>
+<text x="514" y="452" class="about-m" font-size="14" fill="#9aa4ba" >Designed and built in Java and</text>
+<text x="514" y="472" class="about-m" font-size="14" fill="#9aa4ba" >Spring Boot.</text>
+</g>
+<g class="about-slide about-hide" style="animation-delay:4.60s">
+<text x="820" y="242" class="about-m" font-size="11.5" fill="#64708c" text-anchor="end" >02 / 03</text>
+<text x="510" y="382" class="about-d" font-size="108" fill="url(#about-num)" >~95%</text>
+<text x="514" y="422" class="about-m about-b" font-size="18" fill="#eef1f7" >shorter pipeline runtime</text>
+<text x="514" y="452" class="about-m" font-size="14" fill="#9aa4ba" >On datasets of 100k+ tables, via</text>
+<text x="514" y="472" class="about-m" font-size="14" fill="#9aa4ba" >pushdown and concurrency tuning.</text>
+</g>
+<g class="about-slide about-hide" style="animation-delay:8.60s">
+<text x="820" y="242" class="about-m" font-size="11.5" fill="#64708c" text-anchor="end" >03 / 03</text>
+<text x="510" y="382" class="about-d" font-size="108" fill="url(#about-num)" >~50%</text>
+<text x="514" y="422" class="about-m about-b" font-size="18" fill="#eef1f7" >faster review turnaround</text>
+<text x="514" y="452" class="about-m" font-size="14" fill="#9aa4ba" >After rolling out Helix across the</text>
+<text x="514" y="472" class="about-m" font-size="14" fill="#9aa4ba" >team&#x27;s GitHub organisation.</text>
+</g>
+</g>
+</svg>
