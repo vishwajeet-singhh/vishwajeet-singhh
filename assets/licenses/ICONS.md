@@ -31,6 +31,6 @@ Not available in Simple Icons, obtained elsewhere:
 - **SAP HANA**: shown with the SAP mark from Simple Icons (SAP HANA is SAP's database).
 - On the light background, brand colours that fall below 3:1 contrast (for example Linux yellow) are darkened
   just enough to stay visible.
-- The globe, pin, briefcase, server and loop glyphs are generic line icons drawn for this profile, not brand marks.
+- The globe, pin, briefcase, code and loop glyphs are generic line icons drawn for this profile, not brand marks.
 
 All trademarks belong to their owners. Their use here identifies the tools and platforms only.
