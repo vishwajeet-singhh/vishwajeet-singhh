@@ -12,18 +12,15 @@ Simple Icons v16.34.0 (CC0-1.0, https://github.com/simple-icons/simple-icons), u
 - OpenJDK (`openjdk`), brand source: https://hg.openjdk.java.net/duke/duke/file/ca00f100dafc/vector/Agent.svg
 - Spring Boot (`springboot`), brand source: https://spring.io/projects
 - Python (`python`), brand source: https://www.python.org/community/logos/
+- Hibernate (`hibernate`), brand source: https://hibernate.org
 - PostgreSQL (`postgresql`), brand source: https://wiki.postgresql.org/wiki/Logo
 - Redis (`redis`), brand source: https://redis.io/brand-guidelines
 - Apache Kafka (`apachekafka`), brand source: https://apache.org/logos
-- Hibernate (`hibernate`), brand source: https://hibernate.org
+- SAP (`sap`), brand source: https://www.sap.com
 - Docker (`docker`), brand source: https://www.docker.com/company/newsroom/media-resources
 - GitHub Actions (`githubactions`), brand source: https://github.com/features/actions
 - Google Cloud (`googlecloud`), brand source: https://cloud.google.com
 - Linux (`linux`), brand source: https://www.linuxfoundation.org/the-linux-mark/
-- SAP (`sap`), brand source: https://www.sap.com
-- LeetCode (`leetcode`), brand source: https://leetcode.com/store
-- Codeforces (`codeforces`), brand source: https://codeforces.com
-- GitHub (`github`), brand source: https://github.com/logos
 
 Not available in Simple Icons, obtained elsewhere:
 - **LinkedIn**: official "In" bug from LinkedIn's brand site, https://brand.linkedin.com/downloads
@@ -32,6 +29,8 @@ Not available in Simple Icons, obtained elsewhere:
 - **Java**: Simple Icons has no Java mark. The stack orbit uses the OpenJDK "Duke" mark from Simple Icons,
   labelled "Java".
 - **SAP HANA**: shown with the SAP mark from Simple Icons (SAP HANA is SAP's database).
-- The globe, pin and briefcase glyphs are generic line icons drawn for this profile, not brand marks.
+- On the light background, brand colours that fall below 3:1 contrast (for example Linux yellow) are darkened
+  just enough to stay visible.
+- The globe, pin, briefcase, server and loop glyphs are generic line icons drawn for this profile, not brand marks.
 
 All trademarks belong to their owners. Their use here identifies the tools and platforms only.
